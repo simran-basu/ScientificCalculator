@@ -1,6 +1,8 @@
+package calculator;
+
 import java.util.*;
 import java.lang.Math;
-class Calculator {
+public class Calculator {
     static int Factorial(int n)
     {
         if (n<=2)
